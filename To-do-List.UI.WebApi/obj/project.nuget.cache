@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTVsLhf/1C8=",
+  "success": true,
+  "projectFilePath": "/Users/sebastianurena/CodeProjects/To-do-List/To-do-List/To-do-List.UI.WebApi/To-do-List.UI.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/sebastianurena/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/sebastianurena/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
